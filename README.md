@@ -62,9 +62,7 @@ Focuses on layouts, filters, reusable components, and responsiveness.
 
 # ✉️ **Let’s Connect**
 - **Email:** pluggitotech5050@gmail.com  
-- **Location:** Remote  
-- **Twitter/X:** (add if you want)  
-- **Portfolio:** (I can help you build one)  
+- **Location:** Remote    
 
 ---
 
