@@ -1,69 +1,77 @@
-# 👋 Hey, I'm Abdul Mojeed Carew
+# Abdul Mojeed Carew
 
-I'm a **Full-stack JavaScript Developer** focused on building high-performing, real-world applications using **React, Next.js, Node.js, Prisma, and PostgreSQL**.  
-I love turning ideas into products — clean UI, reliable backend systems, and smooth user experiences.
+**Full-stack JavaScript engineer** with 4+ years building production fintech, social, and data systems.
+Specializing in React, Next.js, Node.js, Prisma, and PostgreSQL — remote-first, globally available.
 
-### 🚀 What I Do
-- Build scalable full-stack applications  
-- Design APIs & database architectures  
-- Work with modern frameworks (React, Next.js, Express, Node.js)  
-- Integrate third-party services & APIs  
-- Deploy production-ready apps  
-- Build custom tools for data processing, automation, and mapping (NYC ZOLA, ATTOM APIs, AI extraction logic, etc.)  
-
----
-
-# 🧠 **Core Skills**
-- **Frontend:** React, Next.js, TailwindCSS, TypeScript  
-- **Backend:** Node.js, Express, Next.js API Routes  
-- **Database:** PostgreSQL, Prisma ORM  
-- **Tools:** Git, Docker, Postman, Clerk/Auth, Mapbox, OpenAI  
-- **Other:** Clean code, system design basics, performance optimization  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
 ---
 
-# 📌 **Featured Projects**
+## Featured projects
 
-### 🎫 **Tikkify — Event Management Platform**  
-Full-stack ticketing and event management platform built with Next.js + Prisma + PostgreSQL.  
-Includes authentication, event creation, ticket sales, analytics, and payment logic.  
-**Status:** In development (multi-year flagship project)
+### Chowvest — Commodity Price-Locking Savings Platform
 
----
+_Live · Fintech_
 
-### 🗺️ **NYC Zoning + Real Estate Intelligence (Web App)**  
-A full-stack tool that ingests Offering Memorandums, extracts structured property data using AI, and overlays zoning & land-use layers using Mapbox and NYC ZOLA APIs.
+Enables users to save toward food items while locking prices against market fluctuations. Built end-to-end with Next.js, Prisma, PostgreSQL, and Paystack.
 
----
-
-### 📸 **Moooments**  
-A social-style app for saving daily highlights and memories. Built with JavaScript + React UI components.
+- **₦300K+** in transaction volume processed across real payment flows
+- **15 users** onboarded at soft launch, sustaining **5–8 weekly actives**
+- Implemented idempotent transaction handling and Paystack webhook verification to prevent duplicate charges
+- Built full savings workflow: progressive funding, price-lock logic, withdrawal and redemption flows
+- Designed backend state machine for transaction lifecycle — pending, confirmed, failed, recovered
+- Optimized frontend navigation responsiveness and reduced perceived load latency
 
 ---
 
-### 🌐 **Dailies**  
-A simple social media concept app with posts, interactions, profiles, and notifications. Built with TypeScript.
+### Dailies — Social Feed Platform
+
+_Live · Social · TypeScript_
+
+Social app with posts, profiles, interactions, and notifications — built in TypeScript with real organic user growth.
+
+- **59+ users**, **100+ posts**, **165+ comments** — organic growth, zero paid acquisition
+- Built type-safe full-stack architecture: posts, profiles, notifications, and interaction systems
+- Handled real user sessions, data relationships, and feed logic at small-scale production load
 
 ---
 
-### 🏡 **Airbnb Clone**  
-Full UI + basic booking logic clone built with TypeScript.  
-Focuses on layouts, filters, reusable components, and responsiveness.
+### NYC Zoning & Real Estate Intelligence
+
+_AI · Geospatial · Proptech_
+
+Full-stack tool that ingests Offering Memorandums, extracts structured property data via OpenAI, and overlays zoning layers using Mapbox and NYC ZOLA APIs.
+
+- Designed AI extraction pipeline to parse unstructured PDFs into structured property records
+- Integrated Mapbox and NYC ZOLA APIs for real-time geospatial visualization of zoning data
+- Built ATTOM API data layer for enriched property intelligence and comparables
 
 ---
 
-# 📈 **What I'm Working On**
-- Building **Tikkify** into Africa’s biggest event-tech platform  
-- Improving backend architecture + scalable data systems  
-- Working on map-based real estate analytics  
-- Moving from full-stack into **advanced system design** and eventually **game development**
+### Exploration projects
+
+- **Moooments** — Social memory app; explored component architecture and real-time UI state in React
+- **Airbnb Clone** — Complex filter UIs, responsive grid layouts, and reusable component systems in TypeScript
 
 ---
 
-# ✉️ **Let’s Connect**
-- **Email:** pluggitotech5050@gmail.com  
-- **Location:** Remote    
+## Core skills
+
+| Area         | Technologies                               |
+| ------------ | ------------------------------------------ |
+| Frontend     | React, Next.js, TypeScript, TailwindCSS    |
+| Backend      | Node.js, Express, Next.js API routes, REST |
+| Data         | PostgreSQL, Prisma ORM, data modeling      |
+| Integrations | Paystack, OpenAI, Mapbox, Clerk, Docker    |
 
 ---
 
-🔥 **I build products that work, scale, and feel modern. Let’s create something impactful.**
+## Contact
+
+- **Email:** pluggitotech5050@gmail.com
+- **Availability:** Remote · Open to global opportunities
