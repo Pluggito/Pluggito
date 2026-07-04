@@ -41,22 +41,16 @@ Social app with posts, profiles, interactions, and notifications — built in Ty
 
 ---
 
-### NYC Zoning & Real Estate Intelligence
+### DocuLens Studio — AI Document Intelligence Platform
 
-_AI · Geospatial · Proptech_
+_Live · AI · Enterprise_
 
-Full-stack tool that ingests Offering Memorandums, extracts structured property data via OpenAI, and overlays zoning layers using Mapbox and NYC ZOLA APIs.
+Cross-platform (Web, iOS, Android) document intelligence platform that extracts structured data from unstructured files (PDFs, images) using a parallel OCR and Vision LLM architecture.
 
-- Designed AI extraction pipeline to parse unstructured PDFs into structured property records
-- Integrated Mapbox and NYC ZOLA APIs for real-time geospatial visualization of zoning data
-- Built ATTOM API data layer for enriched property intelligence and comparables
-
----
-
-### Exploration projects
-
-- **Moooments** — Social memory app; explored component architecture and real-time UI state in React
-- **Airbnb Clone** — Complex filter UIs, responsive grid layouts, and reusable component systems in TypeScript
+- Built a highly accurate dual-extraction pipeline combining Tesseract.js and Gemini 2.0 Flash Vision
+- Engineered dynamic Zod schemas to handle unstructured edge-case data (e.g., country-specific form fields)
+- Implemented real-time SSE streaming for live AI extraction progress in the UI
+- Built within a Turborepo monorepo using React Native (Expo), Next.js, Neon PostgreSQL, and Drizzle ORM
 
 ---
 
